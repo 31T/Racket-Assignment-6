@@ -1,2 +1,1 @@
-# Racket-Assignment-6
-Racket Trees and Recursion
+# Racket Trees and Mutual Recursion
